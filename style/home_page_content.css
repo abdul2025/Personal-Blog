@@ -1,0 +1,18 @@
+.body-contents {
+	/* background-color: yellow; */
+	display: grid;
+}
+
+.cards {
+	width: 75%;
+	justify-self: center;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+	gap: 20px;
+	padding: 20px;
+}
+
+.post {
+	height: 450px;
+	border: 1px solid black;
+}
