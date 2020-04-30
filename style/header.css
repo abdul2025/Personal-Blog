@@ -96,7 +96,7 @@
 	text-decoration: underline;
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 626px) {
 	.header-content {
 		flex-direction: column;
 	}
